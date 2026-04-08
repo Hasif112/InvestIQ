@@ -1,0 +1,10 @@
+{
+    "name": "haris",
+    "age": 20,
+    "occupation": "nike",
+    "income": 1000.0,
+    "expenses": 200.0,
+    "location": "milton",
+    "currency": "cad",
+    "risk_tolerance": "aggresive"
+}
